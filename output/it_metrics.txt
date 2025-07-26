@@ -1,0 +1,6 @@
+Accuracy percentage = 71.77348551360842%
+Recall = 0.6159420289854849
+Precision = 0.24824766355139824
+F1 Score = 0.3538717734811092
+Jaccard Index = 0.5087871298349111Correct: 1635
+Wrong: 643True Positives: 1700True Negatives: 47086False Positives: 5148False Negatives: 1060

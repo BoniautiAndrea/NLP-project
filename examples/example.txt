@@ -1,0 +1,5 @@
+The word 'progetto' in the sentence 'Spero che questo progetto mi farà prendere un voto molto alto.'
+Has been translated in English as ['project', 'project'] with -0.372
+Has been translated in Chinese as ['计划', '计划'] with -0.871
+Has been translated in Russian as ['проект', 'проект', 'план'] with -2.524
+And through these translations the inferred meanings are: ["Un progetto consiste, in senso generale, nell'organizzazione di azioni nel tempo per il perseguimento di uno scopo predefinito."]
